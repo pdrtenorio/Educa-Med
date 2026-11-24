@@ -77,7 +77,7 @@ O uso é **exclusivamente educacional**: casos clínicos reais, diagnósticos e 
 
 ---
 
-## Arquitetura
+## Arquitetura 
 
 Aplicação em **3 camadas**: o frontend fala com a API por HTTP/JSON, e a API delega as regras para módulos com uma responsabilidade cada.
 
